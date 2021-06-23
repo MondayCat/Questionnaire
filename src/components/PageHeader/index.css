@@ -1,0 +1,26 @@
+#header{
+    height: 50px;
+    /* background-color: blanchedalmond; */
+    border-bottom: solid rgb(156, 156, 156) 1px;
+    /* margin-bottom: 10px; */
+    position: relative;
+    width: 100%;
+}
+#userName{
+    display: inline-block;
+    width: 150px;
+    height: 100%;
+    font-size: 24px;
+    color: #1890ff;
+    /* background: #000; */
+    /* border: blue solid 1px; */
+    position: absolute;
+    right: 10%;
+    vertical-align: center;
+    text-align: right;
+}
+#userName img{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
